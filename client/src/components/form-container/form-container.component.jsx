@@ -11,7 +11,7 @@ const FormContainer = ({ children }) => {
 };
 
 FormContainer.propTypes = {
-	children: PropTypes.element
+	children: PropTypes.array
 };
 
 

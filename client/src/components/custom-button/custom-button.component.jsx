@@ -11,7 +11,7 @@ const CustomButton = ({ children, handleClick, ...otherProps }) => (
 );
 
 CustomButton.propTypes = {
-	children: PropTypes.string,
+	children: PropTypes.element,
 	handleClick: PropTypes.func
 };
 

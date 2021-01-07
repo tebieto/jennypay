@@ -63,5 +63,8 @@ export const FormContainerStyles = styled.div`
         width: 100%;
         height: 100vh;
         .form-wrapper {width: 90%};
+        .header {
+            width: 90%;
+        }
     }
 `;
