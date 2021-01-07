@@ -8,7 +8,6 @@ const Register = () => (
 	<RegisterContainer>
 		<FormContainer>
 			<div className="form-wrapper">
-				<h2 className="form-header">Register new account</h2>
 				<RegisterForm />
 			</div>
 		</FormContainer>
